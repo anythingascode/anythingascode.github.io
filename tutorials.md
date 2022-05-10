@@ -2,4 +2,4 @@
 
 [Hashicorp Vault & Cert-Manager Integration](./vault-cert-manager-integration.html)
 
-[back](./)
+[Terraform Stack Generator](./terraform-stack-generator.html)
