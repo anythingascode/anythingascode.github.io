@@ -1,4 +1,4 @@
-##Set up Kubernetes cluster with 2 Nodes, Calico, Cert-manager and vault-issuer with Helm, Vagrant and Bash.
+## Set up Kubernetes cluster with 2 Nodes, Calico, Cert-manager and vault-issuer with Helm, Vagrant and Bash.
 
 ### Description
 Your services can establish their identity and communicate securely over the network with other services or clients inside or outside the cluster when Kubernetes is configured to use Vault as a certificate manager.
@@ -48,8 +48,8 @@ The following is an example of a successful output.
 
 ### Kubernetes documentation used
 
-[configure-access-multiple-clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
+- [configure-access-multiple-clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
 
-[users-rbac-kubernetes](https://www.adaltas.com/en/2019/08/07/users-rbac-kubernetes/)
+- [users-rbac-kubernetes](https://www.adaltas.com/en/2019/08/07/users-rbac-kubernetes/)
 
 
