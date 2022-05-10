@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Tutorials](./tutorials.html).
+
 ## Thank you for stopping by!
 
 Since you've come this far, I'm presuming you're interested in learning more about anything as code. This is how people like us employ automation.
