@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 ## Thank you for stopping by!
 
