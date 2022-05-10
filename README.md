@@ -1,8 +1,10 @@
 
 ## Thank you for stopping by!
 
-Since you've come this far, I'm presuming you're interested in learning more about anything as code. This is how people like us employ automation. People like us use automation in this manner.
+Since you've come this far, I'm presuming you're interested in learning more about anything as code. This is how people like us employ automation.
 GitOps is a mindset or set of practices that allows developers to take on activities that were previously handled by IT operations. In GitOps, declarative rules must be utilized to describe and observe systems, and these rules will eventually become the foundation for everything as code.
+
+GitOps is built around the developer experience and helps teams manage infrastructure using the same tools and processes they use for software development.
 
 Let's set aside the theory and industrial jargon and concentrate on solutions that can assist in the automation of daily tasks. In the interests of assisting others, I'll give real-world examples and some of the tools I created to make my life easier.
 
