@@ -9,6 +9,8 @@ GitOps is built around the developer experience and helps teams manage infrastru
 
 Let's set aside the theory and industrial jargon and concentrate on solutions that can assist in the automation of daily tasks. In the interests of assisting others, I'll give real-world examples and some of the tools I created to make my life easier.
 
+## Projects
+
 ### Terraform Stack Generator
 
 Terraform stack generator is a program that can create terraform code and documentation from many modules and substantially reduce development time.
@@ -16,6 +18,12 @@ Terraform stack generator is a program that can create terraform code and docume
 You may get the code [here](https://github.com/anythingascode/terraform-stack-generator).
 
 You may also use the download button in the left pane sidebar to get the cli.
+
+### E2EIaC
+
+e2eiac is a tool that provides a framework for enforcing best practices for infrastructure as code. It automates end-to-end processes such as compliance enforcement, infrastructure deployment, and end-to-end testing.
+
+You may get the code [here]().
 
 ### Contact
 <a href="mailto:sumit.singh@anythingascode.com?subject=[Subejct Here]%20Source%20Anything%20as%20Code">
