@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Tutorials](./tutorials.html).
+[Tutorials](./tutorials.md).
 
 ## Thank you for stopping by!
 
