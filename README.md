@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/anythingascode/anythingascode.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Thank you for stopping by!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Since you've come this far, I'm presuming you're interested in learning more about anything as code. This is how people like us employ automation. People like us use automation in this manner.
+GitOps is a mindset or set of practices that allows developers to take on activities that were previously handled by IT operations. In GitOps, declarative rules must be utilized to describe and observe systems, and these rules will eventually become the foundation for everything as code.
 
-### Markdown
+Let's set aside the theory and industrial jargon and concentrate on solutions that can assist in the automation of daily tasks. In the interests of assisting others, I'll give real-world examples and some of the tools I created to make my life easier.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Terraform Stack Generator
 
-```markdown
-Syntax highlighted code block
+Terraform stack generator is a program that can create terraform code and documentation from many modules and substantially reduce development time.
 
-# Header 1
-## Header 2
-### Header 3
+You may get the code [here](https://github.com/anythingascode/terraform-stack-generator).
 
-- Bulleted
-- List
+You may also use the download button in the left pane sidebar to get the cli.
 
-1. Numbered
-2. List
+### Contact
+<a href="mailto:sumit.singh@anythingascode.com?subject=[Subejct Here]%20Source%20Anything%20as%20Code">
+<img src="./images/email.png" alt="drawing" width="70"/>
+</a>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anythingascode/anythingascode.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sumit-singh-90116261/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/anythingascode)
