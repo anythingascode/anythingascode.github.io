@@ -1,10 +1,10 @@
 ## Terraform Stack Generator
 
-Terraform stack generator is a program that can create terraform code and documentation from many modules and substantially reduce development time.
+Terraform stack generator is a program that can create terraform stack and documentation from many modules and substantially reduce development time.
 
 You may get the code [here](https://github.com/anythingascode/terraform-stack-generator).
 
-You may also use the download button in the left pane sidebar to download the zip.
+You may also use the download button in the left pane sidebar to download the tool.
 
 ## Usages
 Generate terraform templates/stack for given terraform modules.
