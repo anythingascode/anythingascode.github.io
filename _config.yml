@@ -1,6 +1,7 @@
 title: Anything-as-Code
 description: ""
 show_downloads: true
-zip_url: "https://github.com/anythingascode/terraform-stack-generator/archive/refs/heads/main.zip"
+github:
+  zip_url: https://github.com/anythingascode/terraform-stack-generator/archive/refs/heads/main.zip
 google_analytics:
 theme: jekyll-theme-architect
