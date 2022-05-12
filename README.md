@@ -1,6 +1,6 @@
 ## Thank you for stopping by!
 
-Since you've come this far, I'm presuming you're interested in learning more about anything as code. This is how people like us employ automation.
+Since you've come this far, I'm presuming you're interested in learning more about anything as code.
 
 **GitOps** It is a mindset or set of practices that allows developers to take on activities that were previously handled by IT operations. In GitOps, declarative rules must be utilized to describe and observe systems, and these rules will eventually become the foundation for everything as code.
 
