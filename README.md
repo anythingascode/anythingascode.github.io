@@ -1,8 +1,8 @@
 ## Thank you for stopping by!
 
-Since you've come this far, I'm presuming you're interested in learning more about anything as code.
+Since you've come this far, I'm presuming you're interested in learning more about anything as code. Gitops and cloud infrastructure automation are at the heart of anything as code.
 
-**GitOps** It is a mindset or set of practices that allows developers to take on activities that were previously handled by IT operations. In GitOps, declarative rules must be utilized to describe and observe systems, and these rules will eventually become the foundation for everything as code.
+**GitOps** is a mindset or set of practices that allows developers to take on activities that were previously handled by IT operations. In GitOps, declarative rules must be utilized to describe and observe systems, and these rules will eventually become the foundation for everything as code.
 
 GitOps is built around the developer experience and helps teams manage infrastructure using the same tools and processes they use for software development.
 
@@ -12,9 +12,9 @@ Let's set aside the theory and industrial jargon and concentrate on solutions th
 
 ### [Terraform Stack Generator](./terraform-stack-generator.html)
 
-### E2EIaC
+### Autospec
 
-e2eiac is a tool that provides a framework for enforcing best practices for infrastructure as code. It automates end-to-end processes such as compliance enforcement, infrastructure deployment, and end-to-end testing.
+Autospec is a tool that provides a framework for enforcing best practices for infrastructure as code. It automates end-to-end processes such as compliance enforcement, infrastructure deployment, and end-to-end testing.
 
 You may get the code [here]().
 
