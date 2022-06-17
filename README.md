@@ -20,9 +20,14 @@ In the left sidebar, there is a **Tutorials & Articles** button where you may fi
 
 ### Autospec (In Progress)
 
-Autospec is a tool that provides a framework for enforcing best practices for infrastructure as code. It automates end-to-end processes such as compliance enforcement, infrastructure deployment, and end-to-end testing.
+Autospec is a tool that includes a command line interface (CLI) and Go modules for completing the following tasks.
 
-You may get the code [here]().
+- Enforcing best practices for infrastructure as code.
+- End-to-End testing for Cloud infrastructure deployments.
+- Provides the framework to write and execute custom testcases.
+- Test results reporting.
+- and many more
+
 
 
 Please do not hesitate to contact me if you'd like to collaborate on cloud automation or tools development.
