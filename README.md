@@ -18,7 +18,7 @@ In the left sidebar, there is a **Tutorials & Articles** button where you may fi
 
 ### [Terraform Stack Generator](./terraform-stack-generator.html)
 
-### Autospec
+### Autospec (In Progress)
 
 Autospec is a tool that provides a framework for enforcing best practices for infrastructure as code. It automates end-to-end processes such as compliance enforcement, infrastructure deployment, and end-to-end testing.
 
