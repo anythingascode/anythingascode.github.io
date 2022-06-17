@@ -29,7 +29,7 @@ Autospec is a tool that includes a command line interface (CLI) and Go modules f
 - and many more
 
 ### CloudClean (In progress)
-Cloud cleanup is a command-line utility that can be scheduled to monitor and delete specific resources in order to keep costs under control.
+Cloud clean is a command-line utility that can be scheduled to monitor and delete specific resources in order to keep costs under control.
 
 
 
