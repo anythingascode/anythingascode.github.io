@@ -16,7 +16,7 @@ In the left sidebar, there is a **Tutorials & Articles** button where you may fi
 
 ## Projects
 
-### [Terraform Stack Generator](./terraform-stack-generator.html)
+### [Automate Terraform](./automate-terraform.html)
 
 ### Autospec (In Progress)
 
