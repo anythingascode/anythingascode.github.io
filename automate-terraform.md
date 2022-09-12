@@ -1,8 +1,8 @@
-## Terraform Stack Generator
+## Automate Terraform
 
-Terraform stack generator is a program that can create terraform stack and documentation from many modules and substantially reduce development time.
+Automate Terraform is a program that can create terraform stack and documentation from many modules and substantially reduce development time.
 
-You may get the code [here](https://github.com/anythingascode/terraform-stack-generator).
+You may get the code [here](https://github.com/anythingascode/automate terraform).
 
 You may also use the download button in the left pane sidebar to download the tool.
 
