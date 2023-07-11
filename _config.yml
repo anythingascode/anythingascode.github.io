@@ -2,6 +2,6 @@ title: Anything-as-Code
 description: ""
 show_downloads: true
 github:
-  zip_url: 
+  zip_url: https://zip
 google_analytics:
 theme: jekyll-theme-architect
